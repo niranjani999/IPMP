@@ -1,9 +1,6 @@
 class Solution
 {
     public:
-        bool compare(int x, int y) {
-            return abs(x) < abs(y);
-        }
         int closestToZero(int arr[], int n)
         {
             // your code here
